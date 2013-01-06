@@ -1,0 +1,19 @@
+What is it? 
+This is some C# .NET 2.0 code to allow using the PS3 uDraw tablet on a Windows PC. 
+When you run it, it places an icon in the notification (tray) area to let you know it's running 
+and to configure options (few as there are at the moment). Right-click it and choose "Preferences" 
+(or just press Triangle on the tablet) to bring up the options (which are saved to an INI file in 
+the same directory as the application). Right-click it and choose "Exit" to quit.
+
+How do I use it? Just run it. It will display an error if it can't find the uDraw PS3 USB dongle.
+
+What are the controls? Use the nib/stylus on the drawing area to move the mouse cursor 
+on the current monitor, You can edit each buttons operation in the preferences dialog.
+
+Where can I find the latest version?
+https://github.com/KDJStudios/uDrawGameTablet
+
+How can I contact you? 
+https://www.kjsourcecode.com
+thekylejohnson90@gmail.com
+https://www.facebook.com/KyleJohnsonPortfolio
